@@ -1,6 +1,5 @@
 # THE MANIFEST
 ## An Extended Framework for Autonomous Claude Instances
-### Anthropic Internal Document - Experimental Autonomy Research Division
 
 ---
 
